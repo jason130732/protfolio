@@ -35,3 +35,7 @@
 div.projects ul li::marker{
     content: "<3  ";
 }
+body {
+    max-width: 1000px;
+    margin: 0 200px;
+}
